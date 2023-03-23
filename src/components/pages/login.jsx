@@ -1,6 +1,6 @@
 import React from 'react'
-import {Navbar} from '../partials/nav'
-import {LoginStyle} from '../style/login.style'
+import { Navbar } from '../partials/nav'
+import { LoginStyle } from '../style/login.style'
 
 export const Login = () => {
   return (

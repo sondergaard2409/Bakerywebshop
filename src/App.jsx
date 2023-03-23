@@ -1,10 +1,10 @@
 import { Route, Routes } from "react-router-dom";
-import {Container} from "./components/style/container";
-import {Hero} from "./components/partials/hero";
-import {Contact} from "./components/webpages/contact";
-import {Products} from "./components/webpages/products";
-import {Footer} from "./components/partials/footer";
-import {Login} from "./components/webpages/login";
+import { Container } from "./components/style/container";
+import { Hero } from "./components/partials/hero";
+import { Contact } from "./components/webpages/contact";
+import { Products } from "./components/webpages/products";
+import { Footer } from "./components/partials/footer";
+import { Login } from "./components/webpages/login";
 
 function App() {
   return (

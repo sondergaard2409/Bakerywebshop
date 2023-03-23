@@ -1,6 +1,6 @@
 import React from 'react'
-import {Navbar} from '../partials/nav'
-import {ContactStyle} from '../style/contact.style'
+import { Navbar } from '../partials/nav'
+import { ContactStyle } from '../style/contact.style'
 
 export const Contact = () => {
   return (

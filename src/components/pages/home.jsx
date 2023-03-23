@@ -1,8 +1,8 @@
 import React from 'react'
-import {Bagværk} from '../partials/bagværk'
-import {News} from '../partials/news'
-import {Nyhedsbrev} from '../partials/nyhedsbrev'
-import {HomeStyle} from '../style/home.style'
+import { Bagværk } from '../partials/bagværk'
+import { News } from '../partials/news'
+import { Nyhedsbrev } from '../partials/nyhedsbrev'
+import { HomeStyle } from '../style/home.style'
 
 export const Home = () => {
   return (
